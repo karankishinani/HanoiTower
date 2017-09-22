@@ -1,4 +1,4 @@
-# IMPLEMENTATION OF THE HANOI TOWER GAME USING LINEAR DATA STRUCTURES, DYNAMIC DATA STRUCTURES AND ARCHIVES ORGANIZATION
+# Implementation of the Tower of Hanoi game using Linear Data Structures, Dynamic Data Structures and Archives Organization
 
 ## Note:
 ```
